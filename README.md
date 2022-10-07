@@ -1,6 +1,10 @@
 # LiveViewChat
 
-This is a demostration of chat project using a Phoenix Liveview.
+This is a demostration of chat project using a Phoenix LiveView.
+
+## Screenshot
+
+![Chat View ](screenshot.png)
 
 To start your Phoenix server:
 
