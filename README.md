@@ -1,5 +1,7 @@
 # LiveViewChat
 
+This is a demostration of chat project using a Phoenix Liveview.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
